@@ -21,7 +21,6 @@ function geo_clima(){
       <span id="result"></span>
 </div> 
 
-
 <!--O script abaixo trata da geolocalização, messagens de erro coneção co API  -->  
 <script>
 /* As variáveis declaradas abaixo são utilizadas para tratar os resultados que serão apresentados dentro da div com classe css geo-clima*/
