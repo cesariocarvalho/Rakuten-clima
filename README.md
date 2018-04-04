@@ -2,9 +2,9 @@
 #Desafio proposto Criar Plugin de Wordpres 
 #Para ver o plugin fucionado acesse https://cesario.pro.br/rakuten/
 
-#Instalação 
+# Instalação 
 
-# 1 - Faça download do arquivo geo-clima.zip neste repositório:
+#1 - Faça download do arquivo geo-clima.zip neste repositório:
 # 2 - Abra painel do wordpress pocisione o cursor do mouse sobre menu Plugins clique no subemenu carregar plugins.
 # 3 - Clique em carregar aquivo. Feito isso abrira uma janela, selecione o arquivo geo-clima.zip e comfirme a seleção.
 # 4 - Envie o arquivo e aguarde caregar o mesmo por completo.
